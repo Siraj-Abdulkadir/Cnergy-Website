@@ -23,7 +23,7 @@
   --tw-ring-inset:  ;
   --tw-ring-offset-width: 0px;
   --tw-ring-offset-color: #fff;
-  --tw-ring-color:#ffac1c;
+  --tw-ring-color:#ff8a1c;
   --tw-ring-offset-shadow: 0 0 #0000;
   --tw-ring-shadow: 0 0 #0000;
   --tw-shadow: 0 0 #0000;
@@ -7048,7 +7048,7 @@ textarea.form-control.is-invalid {
   font-weight: 700;
   line-height: 1.7;
   --tw-text-opacity: 1;
-  color:#ffac1c;
+  color:#fff;
   --tw-shadow-color: unset;
   --tw-shadow: var(--tw-shadow-colored);
   transition-property: all;
@@ -7079,7 +7079,7 @@ blockquote.btn.icon-top:before {
     height: 1px;
     width: 50%;
     border-width: 0px;
-    background-color: rgba(164,174,198,.2);
+    background-color:#ff8a1c;
     --tw-content: "";
     content: var(--tw-content);
   }
@@ -7096,7 +7096,7 @@ blockquote.btn.icon-top:before {
     height: 1px;
     width: 50%;
     border-width: 0px;
-    background-color: rgba(164,174,198,.2);
+    background-color:#ff8a1c;
     --tw-content: "";
     content: var(--tw-content);
   }
@@ -7117,9 +7117,9 @@ blockquote.btn.icon-top:before {
 
 .btn:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(255 255 255 / var(--tw-border-opacity));
+  border-color: #ff8a1c;
   --tw-bg-opacity: 1;
-  background-color: #ffac1c;
+  background-color: #ff8a1c;
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
@@ -7572,12 +7572,12 @@ blockquote.nav-link {
 
 .nav-link:hover {
   --tw-text-opacity: 1;
-  color: #ffac1c;
+  color:#ff8a1c;
 }
 
 .nav-link:focus {
   --tw-text-opacity: 1;
-  color:#ffac1c ;
+  color:#ff8a1c ;
 }
 
 .nav-link:focus-visible {
@@ -8337,7 +8337,7 @@ blockquote.badge.icon-top:before {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(63 120 224 / var(--tw-bg-opacity));
+  background-color: #ff8a1c;
 }
 
 .navbar.modal:not(.extended) .topbar {
@@ -8844,7 +8844,7 @@ blockquote.badge.icon-top:before {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(63 120 224 / var(--tw-bg-opacity));
+  background-color:#ff8a1c;
 }
 
 .navbar.modal-backdrop:not(.extended) .topbar {
@@ -9275,7 +9275,7 @@ blockquote.badge.icon-top:before {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(63 120 224 / var(--tw-bg-opacity));
+  background-color: #ff8a1c;
 }
 
 .navbar.offcanvas:not(.extended) .topbar {
@@ -10878,7 +10878,7 @@ blockquote.btn.btn-block .number.icon-top:before {
     height: 1px;
     width: 50%;
     border-width: 0px;
-    background-color: rgba(164,174,198,.2);
+    background-color:#ff8a1c;
     --tw-content: "";
     content: var(--tw-content);
   }
@@ -10895,7 +10895,7 @@ blockquote.btn.btn-block .number.icon-top:before {
     height: 1px;
     width: 50%;
     border-width: 0px;
-    background-color: rgba(164,174,198,.2);
+    background-color:#ff8a1c;
     --tw-content: "";
     content: var(--tw-content);
   }
@@ -11212,7 +11212,7 @@ button:focus {
 .btn-navy.btn-expand::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(52 63 82 / var(--tw-bg-opacity));
+  background-color: #ff8a1c;
 }
 
 .btn-ash.btn-expand {
@@ -11245,7 +11245,7 @@ button:focus {
 .btn-primary.btn-expand::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color:#ffac1c;
+  background-color:#ff8a1c;
 }
 
 .btn-blue, .btn-sky, .btn-purple, .btn-grape, .btn-violet, .btn-pink, .btn-fuchsia, .btn-red, .btn-orange, .btn-yellow, .btn-green, .btn-leaf, .btn-aqua, .btn-navy, .btn-ash, .btn-white, .btn-primary {
@@ -12042,7 +12042,7 @@ button:focus {
   --tw-border-opacity: 1;
   border-color: rgb(63 120 224 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color:#ffac1c;
+  background-color:#ff8a1c;
 }
 
 .btn-outline-primary {

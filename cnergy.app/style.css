@@ -7263,26 +7263,6 @@ blockquote.btn.icon-top:before {
   position: relative;
 }
 
-.dropdown-toggle {
-  white-space: nowrap;
-}
-
-.dropdown-toggle::after {
-  margin-left: 0.05rem;
-  display: inline-block;
-  border-width: 0px;
-  vertical-align: -3px;
-  font-family: Unicons;
-  font-weight: 700;
-  --tw-content: "\e92d";
-  content: var(--tw-content);
-}
-
-.dropdown-toggle:empty::after {
-  content: var(--tw-content);
-  margin-left: 0px;
-}
-
 .dropdown-menu {
   position: absolute;
   z-index: 1000;
@@ -7597,7 +7577,7 @@ blockquote.nav-link {
 
 .nav-link:focus {
   --tw-text-opacity: 1;
-  color: rgb(63 120 224 / var(--tw-text-opacity));
+  color:#ffac1c ;
 }
 
 .nav-link:focus-visible {

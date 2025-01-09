@@ -5536,6 +5536,7 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: #d0d0d0;
 }
 
 .underline {
@@ -6652,6 +6653,22 @@ textarea.form-control-sm {
 
 .form-check-input:focus {
   outline:0
+}
+
+.button-link{
+  background-color: #ff8a1c;
+  border: 2px solid #ff8a1c;
+  padding: 4px 12px;
+  border-radius: 2rem;
+  color: #fff;
+}
+
+.button-link:hover{
+  background-color: #ff7b00;
+  border: 2px solid #fb7900;
+  padding: 4px 12px;
+  border-radius: 2rem;
+  color: #fff;
 }
 
 .form-check-input:checked[type=checkbox] {
@@ -29735,7 +29752,7 @@ blockquote.video-wrapper .video-content.icon-top:before {
 
 .hover\:\!text-white:hover {
   --tw-text-opacity: 1 !important;
-  color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
+  color: #ff8a1c;
 }
 
 .hover\:text-\[\#343f52\]:hover {
@@ -29815,8 +29832,10 @@ blockquote.video-wrapper .video-content.icon-top:before {
 
 .hover\:text-white:hover {
   --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: #ff8a1c;
 }
+.text-white:hover{
+  color: #ff8a1c;}
 
 .hover\:no-underline:hover {
   text-decoration-line: none;

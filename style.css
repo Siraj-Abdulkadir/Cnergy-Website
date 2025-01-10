@@ -578,6 +578,7 @@ video {
   .container {
     max-width: 992px;
   }
+ 
 }
 
 @media (min-width: 1200px) {
@@ -7786,6 +7787,7 @@ blockquote.nav-justified .nav-item.icon-top:before,blockquote.nav-justified>.nav
     background-color: rgba(164,174,198,.2);
     --tw-content: "";
     content: var(--tw-content);
+    
   }
 
   blockquote.process-wrapper.line.nav-justified .nav-item [class*=col-]:after,blockquote.process-wrapper.line.nav-justified .nav-item [class*=col-]:before,blockquote.process-wrapper.line.nav-justified>.nav-link [class*=col-]:after,blockquote.process-wrapper.line.nav-justified>.nav-link [class*=col-]:before {
@@ -8561,6 +8563,10 @@ blockquote.badge.icon-top:before {
   .navbar-expand-lg.center-logo.modal .offcanvas-header .logo-dark {
     display: none;
   }
+  .main-socials{
+    display: none;
+  }
+  
 }
 
 @media (min-width:768px) {
